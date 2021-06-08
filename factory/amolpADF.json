@@ -1,0 +1,9 @@
+{
+	"name": "amolpADF",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6adc8cf8-648a-4042-925a-1af09b05ef47",
+		"tenantId": "401c7614-d27b-415f-a980-3e16d7d108a2"
+	}
+}

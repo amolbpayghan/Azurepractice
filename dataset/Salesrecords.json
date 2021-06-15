@@ -11,6 +11,7 @@
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "100 Sales Records.csv",
+				"folderPath": "Input",
 				"container": "amolpcontainer"
 			},
 			"columnDelimiter": ",",

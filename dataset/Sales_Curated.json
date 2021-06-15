@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "Sales_curated.csv",
+				"fileName": "Curatedfile",
 				"folderPath": "Output",
 				"container": "amolpcontainer"
 			},
